@@ -1,7 +1,9 @@
 # 🛒 Walmart Data-Driven Logistics & Customer Intelligence
 
 
-> Este proyecto despliega una solución integral de **Data Science** para Walmart EE. UU., combinando inteligencia de clientes (K-Means) con auditoría logística preventiva (Random Forest). ## 🎯 Impacto en el Negocio * **Retención VIP:** Identificación de los segmentos Platinum y Gold, responsables del **56.95% de los ingresos totales**. * **Auditoría Logística:** Revelación estadística de que el indicador actual de *stockouts* es ruido aleatorio (49% de precisión base), impulsando una recomendación de auditoría en la captura de datos de almacén. * **Estrategia Demográfica:** El core del negocio se concentra en clientes de **44 años en promedio**, permitiendo campañas de marketing hiper-segmentadas.
+> Este proyecto despliega una solución integral de **Data Science** para Walmart EE. UU., combinando inteligencia de clientes (K-Means) con auditoría logística preventiva (Random Forest). 
+> ## 🎯 Impacto en el Negocio
+**Retención VIP:** Identificación de los segmentos Platinum y Gold, responsables del **56.95% de los ingresos totales**. * **Auditoría Logística:** Revelación estadística de que el indicador actual de *stockouts* es ruido aleatorio (49% de precisión base), impulsando una recomendación de auditoría en la captura de datos de almacén. * **Estrategia Demográfica:** El core del negocio se concentra en clientes de **44 años en promedio**, permitiendo campañas de marketing hiper-segmentadas.
 
 ![Badge](https://img.shields.io/badge/Status-Completado-9966FF?style=for-the-badge)
 ![Python|98](https://img.shields.io/badge/Python-9966FF?style=for-the-badge&logo=python&logoColor=white)
