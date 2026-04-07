@@ -86,9 +86,9 @@
 
 | **Resumen Ejecutivo** | **Segmentación de Clientes** |
 | :---: | :---: |
-| ![Resumen](./outputs/visualizaciones/Dash_Walmart1.png) | ![Segmentación](./outputs/visualizaciones/Dash_Walmart2.png) |
+| ![Resumen](./outputs/visualizaciones/Dash_Walmart1.PNG) | ![Segmentación](./outputs/visualizaciones/Dash_Walmart2.PNG) |
 | **Auditoría de Inventario** | |
-| ![Inventario](./outputs/visualizaciones/Dash_Walmart3.png) | |
+| ![Inventario](./outputs/visualizaciones/Dash_Walmart3.PNG) | |
 
 ---
 
