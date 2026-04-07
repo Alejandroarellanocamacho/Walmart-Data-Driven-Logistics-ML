@@ -98,8 +98,8 @@
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/Alejandroarellanocamacho/nombre-del-proyecto.git
-cd nombre-del-proyecto
+git clone https://github.com/Alejandroarellanocamacho/Walmart-Data-Driven-Logistics-ML
+cd Walmart-Data-Driven-Logistics-ML
 
 # 2. Crea un entorno virtual (opcional pero recomendado)
 python -m venv venv
