@@ -1,0 +1,55 @@
+{
+  "name": "Walmart Analytics Pro",
+  "dataColors": [
+    "#0071CE",  
+    "#FFC220",  
+    "#041E42",  
+    "#78B9E7",  
+    "#404040",  
+    "#87b8d4",  
+    "#F4F6F7",  
+    "#A1A1A1"   
+  ],
+  "background": "#F4F6F7",        
+  "foreground": "#041E42",        
+  "tableAccent": "#0071CE",       
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#041E42" } }],
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "outspacePaneBackground": [{ "solid": { "color": "#F4F6F7" } }],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#041E42" } },
+            "alignment": "left",
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labelColor": [{ "solid": { "color": "#404040" } }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#404040" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "title": [{ "fontColor": { "solid": { "color": "#404040" } }, "fontSize": 11 }],  
+        "labels": [{ "color": { "solid": { "color": "#0071CE" } }, "fontSize": 24, "fontFamily": "Segoe UI Bold" }],
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E5E7EB" } }, "radius": 8 }]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "title": [{ "fontColor": { "solid": { "color": "#041E42" } } }]
+      }
+    },
+    "textBox": {
+      "*": {
+        "color": [{ "solid": { "color": "#041E42" } }],
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#0071CE" } }, "radius": 4 }]
+      }
+    }
+  }
+}
